@@ -1,0 +1,8 @@
+/*.suo
+/Debug
+/hots-unpack/Debug
+/hots-unpack/Release
+/Release
+/*.opensdf
+/*.sdf
+/hots-unpack/*.user
